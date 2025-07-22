@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    <img src="Img/RAG.PNG" alt="RAG Types Overview" width="600"/>
+    <img src="Img/RAG.png" alt="RAG Types Overview" width="600"/>
 </p>
 
 ## 📚 Introduction
